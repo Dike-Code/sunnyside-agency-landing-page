@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
--  Solution URL: [Solution](https://dike-code.github.io/Dike-code/)
+-  Solution URL: [Solution](https://dike-code.github.io/Dike-Code/)
 -  Live Site URL: [Live](https://dike-code.github.io/sunnyside-agency-landing-page/)
 
 ## My process
