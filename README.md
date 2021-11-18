@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop View](./images/suunysiddesktop-screenshot.png)
+![Desktop View](./images/sunnysiddesktop-screenshot.png)
 ![Mobile View](./images/sunnysidmobile-screenshot.png) 
 ![Toggle menu view](./images/sunnytogglemenu-screenshoot.png)
 
