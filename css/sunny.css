@@ -323,6 +323,7 @@ body {
 }
 
 .social__bar li{
+   cursor:pointer;
    padding: 0 0.5rem;
    color: var(--Dark-desaturated-cyan);
 }
