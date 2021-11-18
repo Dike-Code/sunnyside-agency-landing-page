@@ -113,7 +113,7 @@ All, Practice... Practice and Practice.
 
 -  Frontend Mentor - [@Dike-Code](https://www.frontendmentor.io/profile/Dike-Code)
 
--  Linkedin - [Dike.O.Clinton](https://www.linkedin.com/dike-o-clinton-26b455220)
+-  Linkedin - [Dike.O.Clinton](https://www.linkedin.com/in/dike-o-clinton-26b455220)
 
 ## Acknowledgments
 
