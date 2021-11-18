@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
--  Solution URL: [Add solution URL here](https://your-solution-url.com)
--  Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-  Solution URL: [Solution](https://dike-code.github.io/Dike-code/)
+-  Live Site URL: [Live](https://dike-code.github.io/sunnyside-agency-landing-page/)
 
 ## My process
 
