@@ -111,7 +111,7 @@ All, Practice... Practice and Practice.
 
 ## Author
 
--  Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Dike-Code)
+-  Frontend Mentor - [@Dike-Code](https://www.frontendmentor.io/profile/Dike-Code)
 
 -  Linkedin - [Dike.O.Clinton](https://www.linkedin.com/dike-o-clinton-26b455220)
 
